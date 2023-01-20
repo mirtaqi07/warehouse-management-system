@@ -1,0 +1,15 @@
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Form1.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.csproj.GenerateResource.cache
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.csproj.CoreCompileInputs.cache
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources

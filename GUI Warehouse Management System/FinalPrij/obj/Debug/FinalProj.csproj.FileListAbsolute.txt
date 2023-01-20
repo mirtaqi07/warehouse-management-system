@@ -1,0 +1,92 @@
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.mainform1.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.GenerateResource.cache
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj\FinalPrij\FinalPrij\obj\Debug\FinalProj.csprojAssemblyReference.cache
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.mainform1.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.GenerateResource.cache
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj 2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csprojAssemblyReference.cache
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.mainform1.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.GenerateResource.cache
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.manifest
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\bin\Debug\FinalPrij.application
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe.manifest
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalPrij.application
+D:\..C++\4th\VS 19\FinalProj-2\FinalPrij\FinalPrij\obj\Debug\FinalProj.csprojAssemblyReference.cache
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.manifest
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\bin\Debug\FinalPrij.application
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalProj.csprojAssemblyReference.cache
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.mainform1.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.GenerateResource.cache
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe.manifest
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.application
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..C++\4th\VS 19\FinalProj-1\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.config
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe.manifest
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\bin\Debug\FinalPrij.application
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\bin\Debug\FinalPrij.exe
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\bin\Debug\FinalPrij.pdb
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalProj.csprojAssemblyReference.cache
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productadd.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productdelete.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.mainform1.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productout.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.Properties.Resources.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productsearch.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productshowall.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.productupdate.resources
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.GenerateResource.cache
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe.manifest
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.application
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.exe
+D:\..work\1 C++\4th\VS 19\z FinalProj Final\FinalPrij\FinalPrij\obj\Debug\FinalPrij.pdb

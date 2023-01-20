@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{248E993E-4822-415C-95B5-67DF56C0E28B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FinalPrij</RootNamespace>
+    <AssemblyName>FinalPrij</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>E:\Seasons\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0162DD139F05794EAE96F7B54129C3C4C4A78ACC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FinalProj_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="productadd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productadd.Designer.cs">
+      <DependentUpon>productadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productdelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productdelete.Designer.cs">
+      <DependentUpon>productdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainform1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform1.Designer.cs">
+      <DependentUpon>mainform1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productout.Designer.cs">
+      <DependentUpon>productout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="productsearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productsearch.Designer.cs">
+      <DependentUpon>productsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productshowall.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productshowall.Designer.cs">
+      <DependentUpon>productshowall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="productupdate.Designer.cs">
+      <DependentUpon>productupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storedataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>storedataset.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="productadd.resx">
+      <DependentUpon>productadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productdelete.resx">
+      <DependentUpon>productdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform1.resx">
+      <DependentUpon>mainform1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productout.resx">
+      <DependentUpon>productout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="productsearch.resx">
+      <DependentUpon>productsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productshowall.resx">
+      <DependentUpon>productshowall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productupdate.resx">
+      <DependentUpon>productupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="FinalProj_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="storedataset.xsc">
+      <DependentUpon>storedataset.xsd</DependentUpon>
+    </None>
+    <None Include="storedataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>storedataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="storedataset.xss">
+      <DependentUpon>storedataset.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
